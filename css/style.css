@@ -3,31 +3,28 @@
 body {
   font-family: "Ubuntu", sans-serif;
 }
-.nav-link {
-  font-weight: bold;
-}
 
 li.on a {
   background-color: rgb(240, 240, 240);
 }
 /* ***************************************************************** */
-.second__page img {
+.follow__page img {
   width: 650px;
   height: 350px;
 }
 
 /* ***************************************************************** */
-.third__page .carousel-item {
+.review__page .carousel-item {
   width: 500px;
 }
-.third__page .carousel-control-prev {
+.review__page .carousel-control-prev {
   background: linear-gradient(
     270deg,
     rgba(255, 252, 252, 1) 18%,
     rgba(116, 114, 114, 1) 100%
   );
 }
-.third__page .carousel-control-next {
+.review__page .carousel-control-next {
   background: linear-gradient(
     270deg,
     rgba(116, 114, 114, 1) 18%,
@@ -36,18 +33,19 @@ li.on a {
 }
 
 /* ***************************************************************** */
-.fourth__page {
-  background-color: #193040;
+.footer {
+  background-color: #354753;
   height: 500px;
   color: #fff;
+  text-align: center;
 }
-.fourth__page p {
+.footer p {
   font-size: 0.8rem;
 }
-.fourth__page img {
+.footer img {
   width: 100px;
 }
-.fourth__page .up {
+.footer .up {
   cursor: pointer !important;
 }
 /* ***************************************************************** */
