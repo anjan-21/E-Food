@@ -4,16 +4,14 @@ body {
   font-family: "Ubuntu", sans-serif;
 }
 
-li.on a {
-  background-color: rgb(240, 240, 240);
-}
-/* ***************************************************************** */
+/* ******************** Follow Page Styling Start ******************** */
 .follow__page img {
   width: 650px;
   height: 350px;
 }
+/* ******************** Follow Page Styling End ******************** */
 
-/* ***************************************************************** */
+/* ******************** Review Page Styling Start ******************** */
 .review__page .carousel-item {
   width: 500px;
 }
@@ -31,8 +29,9 @@ li.on a {
     rgba(255, 252, 252, 1) 100%
   );
 }
+/* ******************** Review Page Styling End ******************** */
 
-/* ***************************************************************** */
+/* ******************** Index Page Footer Styling Start ******************** */
 .footer {
   background-color: #354753;
   height: 500px;
@@ -48,6 +47,8 @@ li.on a {
 .footer .up {
   cursor: pointer !important;
 }
+/* ******************** Index Page Footer Styling End ******************** */
+
 /* ***************************************************************** */
 .locationMain__Page {
   position: relative;
