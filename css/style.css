@@ -4,6 +4,10 @@ body {
   font-family: "Ubuntu", sans-serif;
 }
 
+.on {
+  background-color: rgb(224, 220, 220);
+}
+
 /* ******************** Follow Page Styling Start ******************** */
 .follow__page img {
   width: 650px;
